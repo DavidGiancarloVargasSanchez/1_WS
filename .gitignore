@@ -1,0 +1,26 @@
+
+.#~
+*.*~
+~.#~
+/.#~
+.vscode*
+.idea
+
+venv/
+Pipfile
+Pipfile.lock
+
+# databases
+db.*
+*.sqlite3
+
+#keys
+secrets.json
+.env
+
+#Mac
+.DS_Store
+
+__pycache__/
+
+best_players.csv
